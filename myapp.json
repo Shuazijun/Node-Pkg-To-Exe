@@ -1,0 +1,21 @@
+{
+    "pkg": {
+        "targets": [
+            "node14-win-x64"
+        ],
+        "outputPath": "dist",
+        "assets": [
+            "public/**"
+        ]
+    },
+    "pkg_fetch_version": "3.4",
+    "node_version": "14.20.0",
+    "pkg_cache_path": ".pkg-cache",
+    "icon": "icon.ico",
+    "name": "Web",
+    "description": "MCSManager-Web-Production",
+    "company": "Suwings",
+    "version": "9.5.0",
+    "copyright": "Copyright Suwings",
+    "file": "app.js"
+}

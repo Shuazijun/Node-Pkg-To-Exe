@@ -1,0 +1,9 @@
+以MCSMananger的Web端为示例.需要下载以下文件并解压至当前目录
+
+https://github.com/MCSManager/MCSManager-Web-Production/archive/refs/heads/master.zip
+
+命令列表
+将依赖安装至项目目录
+npm install resedit pkg --save-dev
+构建exe程序(编辑myapp.json对应条目可影响生成的exe程序的版本以及描述)
+node build.js myapp
